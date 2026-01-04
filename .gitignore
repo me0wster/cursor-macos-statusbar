@@ -1,0 +1,83 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+cursor-bar
+
+# Go build artifacts
+*.test
+*.out
+
+# Go dependency directories
+vendor/
+
+# Go build cache
+go-build/
+
+# macOS app bundle
+*.app/
+CursorBar.app/
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Cursor specific
+.cursor/
+
+# Temporary icon generation files
+*.iconset/
+
+# Environment and config files (if you add them later)
+.env
+.env.local
+config.json
+
+# Test coverage
+*.coverprofile
+coverage.html
+coverage.txt
+
+# Compiled Object files
+*.o
+*.a
+
+# Debug files
+debug
+*.dSYM/
