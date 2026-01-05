@@ -6,7 +6,7 @@ A sleek macOS menu bar app that displays your [Cursor](https://cursor.com) usage
 
 - **Live Usage Percentage** — See your current request usage right in the menu bar
 - **Request Tracking** — Monitor requests used vs. your plan limit with visual progress bars
-- **On-Demand Spending** — Track your on-demand usage costs ($0-$30)
+- **On-Demand Spending** — Track your on-demand usage costs
 - **Recent Activity** — View your last 10 API calls with model, tokens, and cost
 - **Auto-Refresh** — Updates every 5 minutes automatically
 - **Dark Mode Support** — Menu bar icon adapts to your system theme
